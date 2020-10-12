@@ -1,9 +1,11 @@
 # Welcome to Nick's CodeFellows Page
-### WOW! :+1: :+1: :+1:
+### WOW!
 
 ### My Nick Magruder and I am a map nerd and bike nerd from Dallas, TX who has spent the last 6 years of his career working in nonprofit development and climate campaign work. I'm here to hone my 1337 h4x0r skills to become a highly effective and productive develope.
 
-### Find me on Github here: https://github.com/nickmagruder
+
+
+### Find me on Github * [here](https://github.com/nickmagruder) 
 
 Table of Contents
 * [Markdown](markdown.md)
