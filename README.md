@@ -1,3 +1,18 @@
+
+# Welcome to Nick Magruder's CodeFellows Reading Notes
+### WOW!
+
+## It's time to internalize the ***Growth Mindset!***
+
+#### A growth mindset, in a word, is always keeping a positive attitude towards one's learning and development. 
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nickmagruder/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
