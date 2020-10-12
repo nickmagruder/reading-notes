@@ -14,7 +14,7 @@ Table of Contents
 
 ### A growth mindset, in a word, is always keeping a positive attitude towards one's learning and development. Its about keeping an open mind at all times, and always diving head-first into new challenging subjects. 
 
-- [ ] Never let yourself get frustrated! Things will be hard, things will sometimes seem like they can't be fixed. Just keep going!
-- [ ] Always remember the big picture; you'll be learning and growing, so feeling uncomfortable or unsure is just right.
-- [ ] Don't overthink it!
+1. Never let yourself get frustrated! Things will be hard, things will sometimes seem like they can't be fixed. Just keep going!
+2. Always remember the big picture; you'll be learning and growing, so feeling uncomfortable or unsure is just right.
+3. Don't overthink it!
 
