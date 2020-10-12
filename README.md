@@ -1,7 +1,7 @@
 # Welcome to Nick's CodeFellows Page
 ### WOW! :+1: :+1: :+1:
 
-### My Nick Magruder and I am a bike nerd from Dallas, TX who until recently spent . I'm here to hone my 1337 h4x0r skills to become a highly effective and product developer. 
+### My Nick Magruder and I am a map nerd and bike nerd from Dallas, TX who has spent the last 6 years of his career working in nonprofit development and climate campaign work. I'm here to hone my 1337 h4x0r skills to become a highly effective and productive develope.
 
 Table of Contents
 * [Markdown](markdown.md)
