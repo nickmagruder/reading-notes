@@ -5,7 +5,7 @@
 
 
 
-### Find me on Github * [here](https://github.com/nickmagruder) 
+### Find me on Github [here](https://github.com/nickmagruder) 
 
 Table of Contents
 * [Markdown](markdown.md)
