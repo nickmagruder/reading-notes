@@ -3,7 +3,7 @@
 
 We all know that writing the code for a website is essentially impossible. The code is preposterously complicated and there is no way that most people could ever understand the code. I mean, just look at it!
 
-![A sample of HTML code](html.jpg)
+![A sample of HTML code](https://raw.githubusercontent.com/nickmagruder/reading-notes/main/html.jpg)
 
 ## Turns out, it's not nearly as hard as we all thought!
 
