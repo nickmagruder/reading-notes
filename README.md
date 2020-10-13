@@ -13,6 +13,7 @@ Table of Contents
 * [Text Editors and Command Prompt](text_editors.md)
 * [Reading 03 - Revisions and the Cloud](read_03.md)
 
+
 ## It's time to internalize the ***Growth Mindset!***
 
 ### A growth mindset, in a word, is always keeping a positive attitude towards one's learning and development. Its about keeping an open mind at all times, and always diving head-first into new challenging subjects. 
