@@ -3,6 +3,7 @@
 
 Table of Contents
 * [Home](https://nickmagruder.github.io/reading-notes/)
+* [Embracing the Growth Mindset](growth_mindset.md)
 * [Read 01: Markdown](markdown.md)
 * [Read 02: Text Editors and Command Prompt](text_editors.md)
 * [Read 03: Revisions and the Cloud](read_03.md)
