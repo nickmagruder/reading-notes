@@ -1,4 +1,4 @@
-# Text Editors and Command Prompt
+# Revisions and the Cloud
 
 Table of Contents
 * [Home](https://nickmagruder.github.io/reading-notes/)
