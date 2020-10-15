@@ -11,3 +11,17 @@ Table of Contents
 * [Read: 07 - Programming with JavaScript](read_07.md)
 * [Read: 08 - Operators and Loops](read_08.md)
 * [Read 04: HTML & Design](read_04.md)
+
+# Dynamic Web Pages with JavaScript
+
+##Statements
+A script is a serious of instructions... a **statement** is an individual instruction, statements end with a semicolon
+
+## JavaScript is case sensitive
+
+* Write comments to explain what the code does
+* /* multi line */
+* // Single Line
+
+## Don't use document.write !!!
+

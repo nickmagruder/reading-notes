@@ -11,3 +11,21 @@ Table of Contents
 * [Read: 07 - Programming with JavaScript](read_07.md)
 * [Read: 08 - Operators and Loops](read_08.md)
 * [Read 04: HTML & Design](read_04.md)
+
+# Computer Architecture and Logic
+
+## What's a computer? Why a bunch of 0s and 1s of course!
+* Not a manual tool
+* Can a tool help us think?
+* Input, Storage, Processing, Output
+
+## How do they work?
+* Electrical wires and circuits, signal is either on or off, each wire is 1bit
+* More wires, more bits, ie 32bit, vs 64bit
+* CPU is a tiny collection of bits(wires) and circuits and architecture that knows where to send electrical signals
+* Circuits interpret/flip/change/combine bits
+* When combined together, greater complexity of calculations can be accomplished
+
+## Hardware and Software
+* Core of processing is in the CPU, and all code is converted to binary by the CPU
+* Operating System is the master program that manages all other software and how they interact with the CPU, memory, etc
