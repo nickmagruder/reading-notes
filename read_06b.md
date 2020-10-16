@@ -29,3 +29,4 @@ Table of Contents
 ## Hardware and Software
 * Core of processing is in the CPU, and all code is converted to binary by the CPU
 * Operating System is the master program that manages all other software and how they interact with the CPU, memory, etc
+
