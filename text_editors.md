@@ -14,7 +14,7 @@ Table of Contents
 * [Read: 08 - Operators and Loops](read_08.md)
 * [Read 04: HTML & Design](read_04.md)
 
-## Text Editors
+## Reading 02: Text Editors and the Command Prompt
 ### There are 3 Types
 
 #### Integrated
@@ -28,7 +28,7 @@ An IDE (Integrated Development Environment) is a suite of various software in on
 manager, a compiler, and a debugger.
 
 
-# The Command Line
+# The Command Prompt
 ## A Cheat Sheet
 
 * https://ryanstutorials.net/linuxtutorial/commandline.php
