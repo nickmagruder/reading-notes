@@ -16,7 +16,7 @@ Table of Contents
 * [Read 201-09: - Forms and Events](read_201-09.md)
 * [Read 201-10: - JS Debugging](read_201-10.md)
 * [Read 201-11: - Assorted Topics](read_201-11.md)
-* [Read 201-12: - Docs for the HTML <canvas> Element & Chart.js](read_201-12.md)
+* [Read 201-12: - Docs for the HTML canvas Element & Chart.js](read_201-12.md)
 * [Read 201-13: - Local Storage](read_201-13.md)
 * [Read 201-14a: - CSS Transforms, Transitions, and Animations](read_201-14a.md)
 * [Read 201-14b: - What Google Learned About Teams](read_201-14b.md)
