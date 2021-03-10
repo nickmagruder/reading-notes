@@ -95,7 +95,8 @@
             - See "Lambda Handlers" seciton in lecture notes
 - Back to directory readpeople
 - Create people.schema.js
-```
+
+```javascript
 const dynamoose = require('dynamoose');
 
 const peopleSchema = new dynamoose.Schema({
@@ -106,38 +107,38 @@ const peopleSchema = new dynamoose.Schema({
 
 }):
 
-moduke.exports = dynamoose.model('people', peopleSchema);
+module.exports = dynamoose.model('people', peopleSchema);
 ```
 
 - Return to index.js
 - Add:
 
-```
+```javascript
 const peopleModel = requre('./people.schema.js'):
 ```
 
 
-        ```javascript
-        exports.handler = async (event)=> {
+```javascript
+exports.handler = async (event)=> {
 
-            let data;
+    let data;
 
-            try {
-                data = await peopleModel.scan().exec();
+    try {
+        data = await peopleModel.scan().exec();
 
-            } catch (e) {
+    } catch (e) {
 
-                **SEE DEMO FOR CODE**
-            }
+        **SEE DEMO FOR CODE**
+    }
 
 
-            let response = {
-                statusCode: 200,
-                body: JSON.stringify(data),
-            }
-            return response;
-        }
-        ```
+    let response = {
+        statusCode: 200,
+        body: JSON.stringify(data),
+    }
+    return response;
+}
+```
 
 - Return to terminal
 - zip -r function.zip .
