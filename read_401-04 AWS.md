@@ -171,3 +171,92 @@ exports.handler = async (event)=> {
 - Lab Overview 
 - 12:02
 
+
+
+
+# SNS/SQS
+- Amazon SNS
+    - Topics - Create Topic
+- SQS
+    - Create Queue - Just give it a name
+    - Once created, can subscribe to SNS subscriptions
+    - Subscribe to the Amazon SNS topic.
+- Create 2 clients with code
+    - Vendor and Driver directories
+    - 
+
+
+# Acing the Technical Interview - Seattle JS Meetup
+## Carmen, Team Hatchways - Carmen@hatchways.io
+- Hatchways - a recruiting platform that does take-home assessment, similar to TripleByte
+    - Less multiple-choice, more "build something"
+- Before
+    - Needed Background knowledge
+    - Be comfortable coding on-the-spot, without using code-editor for auto-completion
+    - Know the Data structures and algorithms
+    - Big O notation
+        - Know how to properly calculate Big O (.includes within a for loop, etc)
+    - Common patterns (for efficient solutions) !!! Learn these !!!
+        - Frequency counter
+        - Multiple pointers
+        - Sliding window
+        - Divide and conquer
+        - Greedy algorithm
+    - Know what to expect
+        - Think out loud constantly - do a lot of talking
+        - Questions okay, make them infrequent and informed
+        - Meaningful variable names
+        - Resources:
+            -  interviewing.io/recordings has actual recordings of interviews
+            - interviewcake.com/interview-process-at-tech-companies
+    - How to Practice
+        - Focus on problem solving, not memorizing
+        - Spend ~30 minutes on a problem before looking up a solution
+        - Practice in one language
+        - Practice consistently, short regular practice
+        - Resources:
+            - codingcoach.io/mock-openings
+            - leetcode.com, hackerrank.com
+- During
+    - Approach: Option One
+        - Start with discussion: ask any questions, share the game plan, explain main choice of data structure and/or algorithm
+        - Solve - if you don't know immediately know the best solution, start with the simple one
+        - Optimize - improve your solution and or discuss how you COULD optimize your solution
+        - TEST TEST TEST - try to break your solution! If you do, thats good!
+    - Approach: Option Two
+        -  Understand the problem
+        - ...
+    - 
+- Examine the question
+    - Don't just jump into the problem. Even if its familiar, listen/read it VERY carefully
+    - Examine the sampple input-output
+- Write a template
+    - Alwasy write an ACTUAL function with an ACTUAL input that handles valid inputs. Don't hardcode a solution for the sample input
+- Discuss solutions
+    - Don't start with the first solution that comes to your head. DISCUSS with the interviewer
+    - If you know the Big O and/or think there are more efficient solutions, let the interviewer know.
+    - Discussing gives the interviewer a change to help you. They may ask questions or point you to the right direction saving time.
+    - If you believe your approach is not optimal, but cant think of a better one after a few minutes, go wit hthe one you have.
+- Wrapping it up
+    - Now you can code the solution. If you get stuck, let them know what you are thinking.
+    - At some point you may figure out a more efficient solution. If almost done, finish your first solution before attempting to rewrite. Either way, inform the interviewer.
+    - Once done, inspect your code to try to catch any obvious bugs and edge cases.
+    - Test your function with sample input.
+- What to do if stuck
+    - Solve a simpler version of the question, or use an inefficient solution, even if not solving all-test cases, or solving in n^2 times
+    - Walk through an example input by hand 
+    - Ask these questions:
+        - How would a human solve this?
+        - Is there a data structure that would make this easier?
+        - Would one of the problem solving pattersn help?
+        - Am I using all of the information provided in the problem.
+- Tips for Success
+    - Don't assume a familiar looking question is one you've done before
+    - Walk through edge cases examples BEFORE starting
+    - Watch for signs that you might be missing something
+    - Explain the ENTIRE plan before starting
+    - Be EXPLICIT in your thinking of how to approach the problem as well as debugging
+    - Bring up efficiency before being asked
+    - Speed is SECONDARY to quality
+
+# "What would you want to change about your role if you could?"
