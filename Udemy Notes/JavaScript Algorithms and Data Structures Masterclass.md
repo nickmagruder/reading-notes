@@ -97,16 +97,62 @@ function mergeSort(arr){
 
 
 
-
 <br/><br/><br/><br/>
 
 
 
+# Quick Sort
+- Similar to merge sort, uses the face that arrays of 0 or 1 are inherently always sorted
+- Functions by the selection of a single element, the "pivot," and then finding the index of where that pivot should ideally be in the final, sorted array
+  - Then, move all smaller numbers to the left and larger ones to the right, but not yet sort them
+    - After this, the "pivot" is in the right position.
+    - Then, we repeat the process on the left and right, similarly to merge sort, recursively
 
 
+# Partition/Pivot (Helper Function)
+- To do a quick sort, it is helpful to create a helper function that arranges elements in an array on each side of the "pivot"
+- With array as argument, function selects an element as the pivot
+- It arranges smaller values to the left, and larger values to the right, order doesn't matter
+- Function arranges "in-place", no new array
+- Returns the pivot's index
 
-# Reading 18
+# Pivot Selection
+- Ideally this would be the median
+- For this solution, we will select the first element
 
-## Review, Research, and Discussion
+# Hash Tables
 
-## Terms
+## What makes a good Hash?
+- Fast (ie constant time)
+- Doesnt cluster outputs at specific indices, but distributes uniformly
+- Deterministic, same input yields same ouput
+
+## charcode MINUS <a number> = number in the alphabet
+- a - <a number... find this number> = 1
+
+## Use prime numbers, less collisions 
+
+## Handling Collisions
+- Separate Chaining
+  - Store at same spot using a nested data structure, multiple key-value-pairs a the same position
+- Linear probing
+  - Only storing one piece of data at each position
+  - When collison, we look forward in array to the next empty spot
+
+## Separate Chaining Implementation
+- Set / Get
+  - Set 
+  1. Accept a key and a value
+  2. Hash the key
+  3. Store the key-value pair in the hash table array via separate chaining
+  - Get
+  1. Accepts a key
+  2. Hashes the key
+  3. Retrieves the key-value pair in the hash table
+  4. If the key isnt found, returns undefined
+
+### Keys / Values
+- Keys
+  - Loops through the hash table array and returns an array of keys in the table 
+- Values
+  - Loops through the hash table array and reutns an array of values in the table
