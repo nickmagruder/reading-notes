@@ -658,7 +658,8 @@ export default connect(mapStateToProps, mapDispatchToProps)(Counter);
 <br/><br/><br/><br/><br/><br/>
 
 
-
+# Max - Adding Redux to Burger
+- 
 
 
 # Max - Router

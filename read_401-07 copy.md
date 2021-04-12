@@ -143,8 +143,39 @@ function MyComponent(props) {
 
 # Reading 35
 
-# 
+# Graphs
+-  Non-linear data structures made up of vertices that are usually connected by lines called "edges."
 
+## Terms
+
+- Vertex -  Data object that can have zero or more adjacent vertices.
+- Edge - A connection of two vertices 
+- Neighbor - A directly-connected vertex
+- Degree - How many edges a vertex has
+
+## Directed vs Undirected
+- Undirected
+  - No specific direction to the edges (Facebook)
+- Directed/Digraph 
+  - Edges go in a specific direction and can potentially go both directions (Instagram)
+
+## Complete, Connected, Disconnected
+- Complete - every vertex is connected to every other vertex
+- Connected - every vertex has at least one edge (no gaps) (Trees are connected graphs)
+- Disconected - Where some vertexes don't have an edge, gaps
+
+# Acyclic vs Cyclic
+- Acyclic - no cycles/loops
+- Cyclic - loops are possible
+
+# Representation
+- Adjaceny Matrix - 2d Array, sparse or dense
+- Adjacency List - More common, an array or collection that lists all the vertices a vertex is connected to
+
+# Weighted Graphs 
+- Edges have values (speed limits on Google maps routes)
+- In a matrix, the "weight" is listed as each edge
+- In a list, both the connected vertex and the weight of the connection must be added
 
 
 
